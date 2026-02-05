@@ -2,7 +2,7 @@
 
 ## 🏆 Achievements
 
-![GitHub for Beginners](https://raw.githubusercontent.com/nisalgunawardhana/github-for-beginners/main/badge.png)
+<img width="1250" height="1250" alt="github-batch1" src="https://github.com/user-attachments/assets/0435a5d7-2126-41f3-85b2-d78c3bc62b6d" />
 
 *Awarded for successfully completing all tasks in Nisal Gunawardhana's GitHub for Beginners repository*
 
