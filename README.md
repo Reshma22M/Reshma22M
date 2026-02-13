@@ -2,11 +2,11 @@
 
 ## 🏆 Achievements
 
-<img width="750" height="750" alt="github-batch1" src="https://raw.githubusercontent.com/nisalgunawardhana/api-learning-101/main/images/badges/badge.png" />
+<img width="250" height="250" alt="github-batch1" src="https://raw.githubusercontent.com/nisalgunawardhana/api-learning-101/main/images/badges/badge.png" />
 
 *Awarded for successfully completing the API Learning 101 challenge*
 
-<img width="1250" height="1250" alt="github-batch1" src="https://github.com/user-attachments/assets/0435a5d7-2126-41f3-85b2-d78c3bc62b6d" />
+<img width="250" height="250" alt="github-batch1" src="https://github.com/user-attachments/assets/0435a5d7-2126-41f3-85b2-d78c3bc62b6d" />
 
 *Awarded for successfully completing all tasks in Nisal Gunawardhana's GitHub for Beginners repository*
 
